@@ -1,4 +1,40 @@
-.side-wrapper {
+.heading-1 {
+  font-size: 3.6rem;
+}
+
+.heading-2 {
+  font-size: 1.8rem;
+}
+
+.heading-3 {
+  font-style: 2.4rem;
+}
+
+.heading-4 {
+  font-size: 1.8rem;
+}
+
+.desc {
+  font-size: 1.6rem;
+}
+
+.desc-technology {
+  font-size: 1.4rem;
+}
+
+.--txt-light {
+  color: #e6e6e6;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.header .header__container {
   width: 80%;
   max-width: 1200px;
   margin: auto;
