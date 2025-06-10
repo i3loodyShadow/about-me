@@ -79,6 +79,11 @@ body {
 .header .header__link i {
   font-size: 19px;
   color: #fff;
+  transform: scale(1);
+  transition: transform 0.3s ease-in-out;
+}
+.header .header__link:hover i {
+  transform: scale(1.1);
 }
 .header .header__photo {
   display: block;
