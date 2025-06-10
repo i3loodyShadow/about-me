@@ -4,4 +4,15 @@ html {
 
 body {
 	font-family: 'Montserrat', sans-serif;
+	background-color: $color-dark;
+	padding: 50px 0;
+}
+
+.side-wrapper {
+	width: 80%;
+	max-width: 800px;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	gap: 100px;
 }
