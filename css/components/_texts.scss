@@ -14,6 +14,15 @@
 	font-size: 2rem;
 	line-height: 1.2;
 }
+
+.text--sm {
+	font-size: 1.8rem;
+}
+
+.text--xsm {
+	font-size: 1.4rem;
+}
+
 .desc-technology {
 	font-size: 1.8rem;
 }
@@ -25,4 +34,8 @@
 }
 .--txt-grey {
 	color: $color-grey;
+}
+
+.--txt-light-blue {
+	color: $color-light-blue;
 }
