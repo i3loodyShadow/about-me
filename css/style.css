@@ -223,4 +223,15 @@ body {
   display: flex;
   flex-direction: column;
   gap: 75px;
+}
+
+.footer .footer__mail {
+  color: #fff;
+  text-decoration: none;
+}
+.footer .footer__mail i {
+  padding-right: 10px;
+}
+.footer .footer__mail:hover {
+  text-decoration: underline;
 }/*# sourceMappingURL=style.css.map */
